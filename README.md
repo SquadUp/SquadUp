@@ -17,7 +17,4 @@ The SquadUp MVP. SquadUp is a social network centered around the idea of groups 
 - [ ] Companies/Big Events can send out event notifications to squads within a certain distance (radius). This would be a primary revenue stream, since ads are a no no.
 - [ ] For public squads, show trending squads, biggest squads, squads with open events at the moment, etc.
 - [ ] Allow users to encrypt their accounts/messages with PGP. We can either provide a key for them (simple interface for non technical users) or allow users to upload their own
-
-# SquadUp as a full social network
-- [ ] No Ads. Pay for site with above revenue stream/subscription. (Low rate, $3/month etc. Makes network seem exclusive, though might slow down early adoption. Perhaps give early users free access for a year etc.)
 - [ ] Better search for people. For example, when searching within groups, filter by who's a friend or not. Also search by publicly available data. For example, if you want to know which college each of your friends is going to, you can filter by 'school' etc.
